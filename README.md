@@ -16,3 +16,6 @@ Project is created with:
 	
 ## Setup
 To run this project, install it locally using npm:
+
+see final project link 
+https://earsketch.gatech.edu/earsketch2/?sharing=NTF91_vYE9Xe7I4-RRDSsw 
