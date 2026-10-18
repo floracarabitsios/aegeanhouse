@@ -59,7 +59,6 @@ Project is: complete.
 
 ## Acknowledgements
 - This project was inspired by Creative Coding A2. 
-- Many thanks to...
 
 
 ## Contact
