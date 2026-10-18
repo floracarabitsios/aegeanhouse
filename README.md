@@ -12,7 +12,6 @@ To view the project follow this link: https://earsketch.gatech.edu/earsketch2/?s
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
@@ -47,26 +46,15 @@ Proceed to describe how to install / setup one's local environment / get started
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+Here are some examples of my code: 
 
-`write-your-code-here`
+`for measure in range(2, 5):
+    fitMedia(FLORACARABITSIOS_BELL_GREECE2__BORQUE_2008__WAV, 2, 2, 3 + 1)`
 
+`fitMedia(FLORACARABITSIOS_PAROS2, 17, 24, 30)`
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+Project is: complete. 
 
 
 ## Acknowledgements
@@ -77,8 +65,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
+Created by Flora Carabitsios. 
 
 <!-- Optional -->
 <!-- ## License -->
