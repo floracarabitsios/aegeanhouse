@@ -58,9 +58,7 @@ Project is: complete.
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Creative Coding A2. 
 - Many thanks to...
 
 
