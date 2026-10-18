@@ -19,9 +19,9 @@ To view the project follow this link: https://earsketch.gatech.edu/earsketch2/?s
 
 
 ## General Information
-**-The song incorperates aspects of both House Music and Greek Island music to take listeners back to a Grecian Holiday. 
-**-Total playing time: 1 minute and 57 seconds. 
-**-Inspired by House music artists such as Keinemusik and Greek Island music artists such as Giannis Parios. 
+- The song incorperates aspects of both House Music and Greek Island music to take listeners back to a Grecian Holiday.
+- Total playing time: 1 minute and 57 seconds.
+- Inspired by House music artists such as Keinemusik and Greek Island music artists such as Giannis Parios. 
 
 
 ## Technologies Used
