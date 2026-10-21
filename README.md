@@ -1,14 +1,13 @@
 # AegeanHouse
 The Aegean House prototype merges the tennents of house music with Greek Island music specifically from the Cycladic Islands to create a musical masterpiece. 
 
-To view the project follow this link: https://earsketch.gatech.edu/earsketch2/?sharing=NTF91_vYE9Xe7I4-RRDSsw 
+To view the project on EarSketch follow this link: https://earsketch.gatech.edu/earsketch2/?sharing=NTF91_vYE9Xe7I4-RRDSsw 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
@@ -37,11 +36,6 @@ To view the project follow this link: https://earsketch.gatech.edu/earsketch2/?s
 <img width="1901" height="1042" alt="image" src="https://github.com/user-attachments/assets/537f0db0-b438-4ad7-8a8c-0905d7c56ebb" />
 
 
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Usage
