@@ -11,7 +11,6 @@ To view the project on EarSketch follow this link: https://earsketch.gatech.edu/
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
