@@ -1,5 +1,6 @@
 # AegeanHouse
 The Aegean House prototype merges the tennents of house music with Greek Island music specifically from the Cycladic Islands to create a musical masterpiece. 
+
 To view the project follow this link: https://earsketch.gatech.edu/earsketch2/?sharing=NTF91_vYE9Xe7I4-RRDSsw 
 
 ## Table of Contents
