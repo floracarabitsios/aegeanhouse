@@ -7,7 +7,6 @@ To view the project on EarSketch follow this link: https://earsketch.gatech.edu/
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
@@ -30,12 +29,6 @@ To view the project on EarSketch follow this link: https://earsketch.gatech.edu/
 - Incoorperates both aspects of desired genres.
 - Uses tape recordings from my Great Grandfather singing songs from the island Paros.
 - Emphasises sounds such as church bells and cicadas which are central to Greek living. 
-
-
-## Screenshots
-<img width="1901" height="1042" alt="image" src="https://github.com/user-attachments/assets/537f0db0-b438-4ad7-8a8c-0905d7c56ebb" />
-
-
 
 
 ## Usage
